@@ -1,0 +1,7 @@
+/**
+ * Fruits
+ */
+public class Fruits {
+
+    
+}
